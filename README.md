@@ -1,7 +1,7 @@
 <!-- 🌟 SECJ1013 | Programming Technique I 🌟 -->
 
 <p align="center">
-  <img src="https://chancellery.utm.my/wp-content/uploads/sites/21/2016/08/jointlogo.jpeg" alt="UTM Logo" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1067px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="100"/>
 </p>
 
 <h1 align="center">SECJ1013 — Programming Technique I</h1>
