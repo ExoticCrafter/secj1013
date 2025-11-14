@@ -3,6 +3,8 @@
 
 #include <iostream>
 #include <cmath>
+#include <cctype>
+#include <cstring>
 using namespace std;
 
 int main() {
@@ -78,8 +80,8 @@ int main() {
 
     //Replace manual loop with → strlen() from <cstring> below
     //...
-    int length = strlen(word);
-    cout << "String length (library) = " << length << endl;
+    length = strlen(word);
+    cout << "String length  = " << length << endl;
 
     return 0;
 }
