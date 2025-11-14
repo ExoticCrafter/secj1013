@@ -28,5 +28,17 @@ int main(){
     cout << "Digit" << endl;
   else
     cout << "special character" << endl;
+
+  //Exercise 2
+  cout << "enter a phrase\t";
+  cin >> ch;
+  if (isupper(ch)){
+    ch = tolower(ch);
+    cout << ch
+  }
+  else if (islower(ch){
+    ch = toupper(ch);
+    cout << ch;
+  }
   return 0;
 }
