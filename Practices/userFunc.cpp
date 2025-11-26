@@ -2,8 +2,7 @@
 using namespace std;
 
 int sum(int no1, int no2){
-    int sumAns;
-    sumAns = no1 + no2;
+    int sumAns = no1 + no2;
     return sumAns;
 }
 int diff(int no1, int no2){
@@ -23,4 +22,5 @@ int main() {
 
     return 0;
 }
+
 
