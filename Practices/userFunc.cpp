@@ -6,8 +6,7 @@ int sum(int no1, int no2){
     return sumAns;
 }
 int diff(int no1, int no2){
-    int diffAns;
-    diffAns = no1 - no2;
+    int diffAns = no1 - no2;
     return diffAns;
 }
 
@@ -22,5 +21,6 @@ int main() {
 
     return 0;
 }
+
 
 
