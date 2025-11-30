@@ -14,13 +14,12 @@ int main() {
     int num1, num2;
     cout << "Enter two integers: ";
     cin >> num1 >> num2;
-
-
     cout << "Sum: " << sum(num1, num2) << endl;
     cout << "Difference: " << diff(num1, num2) << endl;
 
     return 0;
 }
+
 
 
 
