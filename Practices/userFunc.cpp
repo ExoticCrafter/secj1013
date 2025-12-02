@@ -1,25 +1,25 @@
 #include <iostream>
+
 using namespace std;
 
-int sum(int no1, int no2){
-    int sumAns = no1 + no2;
-    return sumAns;
+int calcSum(int n1, int n2){
+    int sum;
+    return sum = n1 + n2;
 }
-int diff(int no1, int no2){
-    int diffAns = no1 - no2;
-    return diffAns;
+int calcDiff(int n1, int n2){
+    int diff = n1 - n2;
+    return diff;
 }
 
-int main() {
+int main(){
     int num1, num2;
-    cout << "Enter two integers: ";
+    cout << "Enter two integers:\t";
     cin >> num1 >> num2;
-    cout << "Sum: " << sum(num1, num2) << endl;
-    cout << "Difference: " << diff(num1, num2) << endl;
 
+    calcSum(num1, num2);
+
+    cout << "Sum:\t" << calcSum << endl;
+    cout << "Difference:\t" << calcDiff << endl;
     return 0;
+
 }
-
-
-
-
