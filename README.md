@@ -35,7 +35,6 @@ This repository serves as a personal archive for assignments, lab exercises, and
 - Introduction to Pointers  
 
 ---
----
 
 ## 💭 Reflection
 
